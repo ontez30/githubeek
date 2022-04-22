@@ -1,0 +1,9 @@
+{
+	"ip":"mabarbareng2.aternos.me",
+	"port": "61884",
+	"name": "rarie",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ",
+	"login-cmd":"/login "
+}
